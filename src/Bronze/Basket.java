@@ -14,6 +14,7 @@ public class Basket {
             a = sc.nextInt();
             b = sc.nextInt();
             c = sc.nextInt();
+
             for(int j = a; j <= b; j++){
                 ar[j] = c;
             }
