@@ -13,7 +13,6 @@ public class ReverseBasket {
             ar[i] = i;
         }
 
-        int [] result = new int[n + 1];
         int a, b;
         for(int i = 0; i < m; i++){
             a = sc.nextInt();
